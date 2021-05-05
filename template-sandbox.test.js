@@ -19,7 +19,7 @@ for (const solution of []) {
 
 
 
-
+//////
 /*
 Two functions 
 first function is copied from codewards 

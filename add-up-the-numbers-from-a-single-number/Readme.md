@@ -192,4 +192,4 @@ this might include:
 - something that you still don't understand but want to keep studying
 - something that surprised you
 - tricks you will want to remember and use later
-```
+```.
