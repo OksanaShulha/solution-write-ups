@@ -1,4 +1,4 @@
-# [String repeat]([link-to-challenge](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/javascript))
+# [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/javascript)
 ​
 ```
 A function that repeats a string the number of times desired
