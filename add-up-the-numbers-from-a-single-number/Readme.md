@@ -193,6 +193,7 @@ this might include:
 - something that surprised you
 - tricks you will want to remember and use later
 ```.
+<<<<<<< HEAD
 
 
 
@@ -400,3 +401,5 @@ this might include:
 - something that surprised you
 - tricks you will want to remember and use later
 ```
+=======
+>>>>>>> c723ab1f6832975aab2f79a7e32502dfe907beaa
